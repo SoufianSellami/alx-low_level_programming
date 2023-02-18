@@ -4,8 +4,9 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/* main - print the last digit of the number stored in the variable n
- * Return 0 
+/* 
+ * main - print the last digit of the number stored in the variable n
+ * Return 0
  */
 int main(void)
 {
